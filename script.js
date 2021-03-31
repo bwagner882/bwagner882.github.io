@@ -4,7 +4,7 @@ const clicked = () =>{
     console.log(number);
     element.innerHTML = 'I LOVE YOU SO MUCH';
     let backgroundElements = document.getElementsByClassName('background');
-    backgroundElements.array.forEach(element => {
+    backgroundElements.forEach(element => {
         element.style.backgroundColor = 'red';
     });
 }
