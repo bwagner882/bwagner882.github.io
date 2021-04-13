@@ -1,6 +1,13 @@
 .button{
     height: 100px;
     width: 300px;
+
+}
+#button{
+    align-self: center;
+}
+#jokeBTN{
+    margin-top: 20px;
 }
 #input{
     height: 30px;
